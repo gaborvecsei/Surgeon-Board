@@ -4,6 +4,7 @@ test.py
 literature_i_found*
 *.npy
 .idea
+*.doc
 
 ## GENERATED GITIGNORE:
 
@@ -213,9 +214,6 @@ fabric.properties
 # Scalable Vector Graphics
 *.svg
 *.svgz
-
-# Portable Document Format
-*.pdf
 
 # X BitMap
 *.xbm
